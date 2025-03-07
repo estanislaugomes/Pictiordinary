@@ -2,3 +2,5 @@ git init
 git add .
 git commit -m "Commit inicial do jogo"
 https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git pull origin main  (Para garantir que você tem a versão mais recente do código)
+git push heroku main
